@@ -70,7 +70,6 @@ A low-level C implementation study focused on ML-KEM and the importance of const
 
 
 
-> Replace or remove any project description that does not reflect the current state of your work. Add repository links once the projects are public.
 
 ## 📚 Currently Learning
 
